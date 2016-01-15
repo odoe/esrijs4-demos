@@ -34,4 +34,8 @@ http://jsbin.com/juzeqe/3/edit?js,output
 
 http://jsbin.com/jolume/1/edit?html,output
 
+## View Models
+
+http://odoe.net/blog/view-models-in-arcgis-js-api/
+
 For more details check out my blog at [odoe.net](http://odoe.net/blog/)
